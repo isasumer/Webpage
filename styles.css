@@ -88,6 +88,9 @@ section{
     text-align:center;
     padding: 0px;
 }
+.sub_logo{
+    font-weight: bold;
+}
 footer{
     color: white;
     text-align: center;
